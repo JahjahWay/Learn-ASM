@@ -1,5 +1,4 @@
 ## Learn-ASM
 
-### Chapter two: Register
+### Chapter three: Type
 
-1. Create makefile
